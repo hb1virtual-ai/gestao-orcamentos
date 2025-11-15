@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1761944970749,
+    "clientName": "Sofia Rapucci Chata",
+    "date": "2025-10-31",
+    "address": "Rua Jair Radi, 180, Riviera",
+    "service": "Instalação alarme e câmeras5555",
+    "type": "manutencao",
+    "category": "alarme",
+    "distance": 19,
+    "labor": 5600,
+    "travel": 72.5,
+    "items": [
+      {
+        "desc": "Câmera SC",
+        "sell": 1200,
+        "quantity": 3,
+        "total": 3600
+      },
+      {
+        "desc": "Câmera SC (cópia)",
+        "sell": 1600,
+        "quantity": 3,
+        "total": 4800
+      },
+      {
+        "desc": "DVR 8CH HILOOK",
+        "sell": 820,
+        "quantity": 3,
+        "total": 2460
+      }
+    ],
+    "total": 16532.5,
+    "createdAt": "2025-10-31T21:11:31.209Z"
+  }
+]
